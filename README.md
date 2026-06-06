@@ -27,6 +27,12 @@ The Underwater Fish Tracking System is an AI-powered computer vision project des
 - Aquaculture Management
 - Environmental Conservation
 
+## Output
+
+The system successfully detects, tracks, and counts fish in underwater videos using a trained YOLO model.
+
+Output demonstration available upon request.
+
 ## Workflow
 
 1. Input underwater video is provided.
